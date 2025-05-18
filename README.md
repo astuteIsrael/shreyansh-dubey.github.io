@@ -2,7 +2,7 @@
 
 Welcome to my professional portfolio showcasing my journey and expertise as a Data Analyst.
 
-## About Me
+## About Me .....
 
 I'm Shreyansh Dubey, a results-driven Data Analyst with 1+ years of experience transforming raw data into actionable business insights. I specialize in SQL, Python, and Power BI to deliver measurable impact.
 
@@ -26,7 +26,7 @@ I'm Shreyansh Dubey, a results-driven Data Analyst with 1+ years of experience t
 2. **Fraud Detection System** - ML pipeline processing 40K+ transactions with 94% precision
 3. **Marketing ROI Analysis** - Customer segmentation achieving 23% higher CTR
 4. **Restaurant Market Analysis** - SQL analysis of 12K+ restaurants with strategic recommendations
-5. **Biometric Recognition System** - B.Tech project with 92% accuracy
+5. **Biometric Recognition System** - B.Tech project with 92% accuracy in face recognition
 
 ## Connect With Me
 
@@ -42,5 +42,5 @@ I'm Shreyansh Dubey, a results-driven Data Analyst with 1+ years of experience t
 2. Open `index.html` in your browser
 3. All assets are in the `assets/` folder
 
-## File Structure
+
 
